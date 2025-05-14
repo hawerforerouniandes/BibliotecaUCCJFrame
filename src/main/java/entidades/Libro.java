@@ -26,6 +26,24 @@ public class Libro {
 	public String getTitulo() {
 		return titulo;
 	}
+
+        public int getId() {
+            return id;
+        }
+
+        public String getIsbn() {
+            return isbn;
+        }
+
+        public String getCategoria() {
+            return categoria;
+        }
+
+        public String getAutor() {
+            return autor;
+        }
+        
+        
 	
 	
 }
